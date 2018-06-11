@@ -12,6 +12,7 @@ Lop: K17 VIET PHAP
 * Mon hoc: Thuc hanh Linux
 
 # Tuan 01
+Da hoan thanh.
 
 # Tuan 02
 
