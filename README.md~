@@ -21,8 +21,10 @@ Da hoan thanh.
 # Tuan 04
 
 # Tuan 05
+Da hoan thanh
 
 # Tuan 06
+Da hoan thanh
 
 # Tuan 07
 

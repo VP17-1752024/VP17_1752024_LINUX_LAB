@@ -27,6 +27,7 @@ Da hoan thanh
 Da hoan thanh
 
 # Tuan 07
+Da hoan thanh
 
 # Tuan 08
 
