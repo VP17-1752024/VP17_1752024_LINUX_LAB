@@ -7,7 +7,7 @@ BTTH LINUX
 
 * MSSV: 1752024
 
-Lop: K17 VIET PHAP
+* Lop: K17 VIET PHAP
 
 * Mon hoc: Thuc hanh Linux
 
@@ -31,7 +31,7 @@ Da hoan thanh
 Da hoan thanh
 
 # Tuan 08
-
+Da hoan thanh
 # Tuan 09
 
 # Tuan 10
