@@ -15,11 +15,13 @@ BTTH LINUX
 Da hoan thanh.
 
 # Tuan 02
+Da hoan thanh
 
 # Tuan 03
 Da hoan thanh
 
 # Tuan 04
+Da hoan thanh
 
 # Tuan 05
 Da hoan thanh
